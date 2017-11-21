@@ -1,4 +1,4 @@
-﻿var OpenWeatherAppKey = "99749eda743b1456c6d42cf073b9501d";
+﻿var OpenWeatherAppKey = "<replace-with-your-api-key-here>";
 
 function getWeatherWithZipCode() {
 
